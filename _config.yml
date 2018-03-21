@@ -1,1 +1,18 @@
 theme: jekyll-theme-cayman
+
+name: Lime • Tiny Object-Oriented Macro Programming Environment
+description: A Simple Macro Programming Language Designed to Build Small Applications
+url: https://lime-lang.xyz
+repository: https://lime-macro.github.com/lime
+timezone: Asia/Shanghai
+logo: "/img/lime.png"
+
+plugins:
+- jekyll-seo-tag
+
+exclude:
+- ".gitignore"
+- ".editorconfig"
+- CNAME
+- README.md
+- LICENSE
