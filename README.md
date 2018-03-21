@@ -14,11 +14,11 @@
     <br>
     <br>
       <a href="https://codeclimate.com/github/lime-macro/lime-lang.xyz/">
-        <img src="	https://img.shields.io/codeclimate/github/lime-macro/lime-lang.xyz.svg" alt="codeclimate">
+        <img src="https://img.shields.io/badge/codeclimate-here-66ccff.svg" alt="codeclimate">
       </a>
     ·
       <a href="https://codeclimate.com/github/lime-macro/lime-lang.xyz/maintainability">
-        <img src="https://img.shields.io/codeclimate/maintainability/lime-macro/lime-lang.xyz.svg" alt="maintainability">
+        <img src="https://img.shields.io/badge/maintainability-codeclimate-red.svg" alt="maintainability">
       </a>
     ·
       <a href="https://lime-lang.xyz/">
@@ -26,7 +26,7 @@
       </a>
     ·
     <a href="https://lime-lang.xyz/">
-      <img src="https://img.shields.io/badge/new-issue-blue.svg" alt="newissue">
+      <img src="https://img.shields.io/badge/new-issue-green.svg" alt="newissue">
     </a>
   </p>
 </p>
@@ -34,6 +34,10 @@
 You can use the [editor on GitHub](https://github.com/lime-macro/lime-lang.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this site, from the content in your Markdown files.
+
+repo contents see [wiki](https://github.com/lime-macro/lime-lang.xyz/wiki)
+
+### LICENSE: AGPL-3.0
 
 ### Markdown
 
