@@ -12,7 +12,7 @@ author:
   name: duangsuse
   url: https://geekapk.org/web/?finduser=duangsuse
 
-locale: "zh_CN"
+# locale: "zh_CN"
 
 show_downloads: true
 
