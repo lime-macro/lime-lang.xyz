@@ -8,6 +8,18 @@ repository: https://github.com/lime-macro
 timezone: Asia/Shanghai
 logo: "/img/lime.png"
 
+author:
+  name: duangsuse
+  url: https://geekapk.org/web/?finduser=duangsuse
+
+locale: "zh_CN"
+
+show_downloads: true
+
+github:
+  zip_url: https://github.com/lime-macro/lime/archive/master.zip
+  interpreter_url: https://lime-lang.xyz/download
+
 plugins:
 - jekyll-seo-tag
 
