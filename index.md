@@ -1,3 +1,8 @@
+---
+title: Lime Programming Language
+description: Introducting Lime macro programming language
+---
+
 # Lime Programming Language
 
 You can use the [editor on GitHub](https://github.com/lime-macro/lime-lang.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

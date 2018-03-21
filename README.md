@@ -1,8 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to Lime GitHub Pages
+
+<p align="center">
+  <a href="https://lime-lang.xyz/">
+    <img src="https://github.com/lime-macro/lime-lang.xyz/blob/master/img/lime.png?raw=true" alt="" width=72 height=72>
+  </a>
+
+  <h3 align="center">Lime</h3>
+
+  <p align="center">
+    A Simple Macro Programming Language Designed to Build Small Applications
+    <br>
+    <a href="https://lime-lang.xyz/apis/"><strong>Explore Lime API docs »</strong></a>
+    <br>
+    <br>
+      <a href="https://codeclimate.com/github/lime-macro/lime-lang.xyz/">
+        <img src="	https://img.shields.io/codeclimate/github/lime-macro/lime-lang.xyz.svg" alt="codeclimate">
+      </a>
+    ·
+      <a href="https://codeclimate.com/github/lime-macro/lime-lang.xyz/maintainability">
+        <img src="https://img.shields.io/codeclimate/maintainability/lime-macro/lime-lang.xyz.svg" alt="maintainability">
+      </a>
+    ·
+      <a href="https://lime-lang.xyz/">
+        <img src="https://img.shields.io/github/languages/code-size/lime-macro/lime-lang.xyz.svg" alt="codesize">
+      </a>
+    ·
+    <a href="https://lime-lang.xyz/">
+      <img src="https://img.shields.io/badge/new-issue-blue.svg" alt="newissue">
+    </a>
+  </p>
+</p>
 
 You can use the [editor on GitHub](https://github.com/lime-macro/lime-lang.xyz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this site, from the content in your Markdown files.
 
 ### Markdown
 
